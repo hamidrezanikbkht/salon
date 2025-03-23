@@ -5,7 +5,7 @@
 ![viewfinal]()
 
 
-- [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/](https://hamidrezanikbkht.github.io/salon/)
+- [Demo Project](https://hamidrezanikbkht.github.io/salon/)
 
 - Developed by hamidreza nikbakht
 

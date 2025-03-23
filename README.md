@@ -10,13 +10,12 @@
 
 - Developed by hamidreza nikbakht
 
-- Created - 2024-11-26
+- Created - 2025
 
-- Technologies Used - Html , css , js , React.js
-
-- Hooks Used : useState 
+- Technologies Used - Html , css , js ,
 
 - Role - Frontend
 
-- How to reach me : with my [instagram]([https://www.instagram.com/pouria_farahani_developer) and [linkedin](https://www.linkedin.com/in/pouria-farahani-developer](https://www.instagram.com/hamidrezanikbakht?igsh=dTRxeTdudDRpbmc0))
-- How to reach me : with my [link]
+- How to reach me : with my [instagram](https://www.instagram.com/hamidrezanikbakht?igsh=dTRxeTdudDRpbmc0)
+- How to reach me : with my [link](in/hamidreza-nikbakht-787164334
+)

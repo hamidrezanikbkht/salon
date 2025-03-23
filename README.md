@@ -6,7 +6,7 @@
 
 ![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
 
-- [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
+- [Demo Project]([https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/](https://hamidrezanikbkht.github.io/salon/))
 
 - Developed by hamidreza nikbakht
 
@@ -17,5 +17,5 @@
 - Role - Frontend
 
 - How to reach me : with my [instagram](https://www.instagram.com/hamidrezanikbakht?igsh=dTRxeTdudDRpbmc0)
-- How to reach me : with my [link](in/hamidreza-nikbakht-787164334
-)
+- How to reach me : with my [in]([in/hamidreza-nikbakht-787164334](https://www.linkedin.com/in/hamidreza-nikbakht-787164334)
+

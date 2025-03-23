@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@font-face {
+    font-family: 'IranSans';
+    src: url('fonts/Sigmar-Regular.ttf') format('woff2');
+    
+  }
+@font-face {
+    font-family: 'Iran';
+    src: url('fonts/Cinzel-VariableFont_wght.ttf') format('woff2');
+    
+  }
+@font-face {
+    font-family: 'par';
+    src: url('fonts/EduAUVICWANTPre-VariableFont_wght.ttf') format('woff2');
+    
+  }
